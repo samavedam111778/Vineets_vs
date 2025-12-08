@@ -123,6 +123,25 @@ My work spans **pharmaceutical manufacturing, healthcare analytics, and enterpri
 
 ---
 
+## 🚀 Hands-on GenAI & Data Engineering Projects
+
+### 🧾 BCG X – GenAI Financial Document Chatbot  
+Creating an AI-powered chatbot that extracts insights from financial documents and makes them queryable in natural language.
+
+- Repository: <a href="https://github.com/samavedam111778/BCG_X_GEN_AI_CHATBOT">BCG_X_GEN_AI_CHATBOT</a>  
+- Focus: RAG-style retrieval over financial docs, prompt engineering, and building an interactive chatbot interface.  
+- Tech highlights: Jupyter Notebooks, HTML front-end, GenAI workflows for document Q&A. :contentReference[oaicite:0]{index=0}  
+
+---
+
+### 📊 GEN AI – EDA Analysis using LLMs  
+Exploratory data analysis (EDA) powered by GenAI to speed up understanding of complex datasets and generate insights.
+
+- Repository: <a href="https://github.com/samavedam111778/GEN_AI_TATA">GEN_AI_TATA</a>  
+- Focus: Using GenAI to assist with EDA, pattern discovery, and narrative-style summary of data.  
+- Tech highlights: Jupyter Notebooks and SQL/T-SQL workflows integrated with LLM-driven analysis. :contentReference[oaicite:1]{index=1}
+
+
 ## 🎓 Education
 
 - **M.S. in Data Analytics** – University of Southern California *(2023–2026)*  
