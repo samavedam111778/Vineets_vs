@@ -141,6 +141,15 @@ Exploratory data analysis (EDA) powered by GenAI to speed up understanding of co
 - Focus: Using GenAI to assist with EDA, pattern discovery, and narrative-style summary of data.  
 - Tech highlights: Jupyter Notebooks and SQL/T-SQL workflows integrated with LLM-driven analysis. :contentReference[oaicite:1]{index=1}
 
+---
+
+### 📊 Food Hub Order EDA  
+LLM-assisted exploratory data analysis over restaurant order data to generate fast insights on demand patterns, missing ratings, top restaurants, and high-value customers.
+
+- Repository: <a href=https://github.com/samavedam111778/FoodHub_EDA_Analysis.git</a>
+- Focus: RAG-ready EDA, pattern discovery (weekday vs weekend), ranking (top 5 restaurants, top 3 customers), and narrative insight generation using Pandas.  
+- Tech highlights: Python, Pandas, Jupyter Notebooks, and SQL-style aggregations structured for future LLM queryability.
+
 
 ## 🎓 Education
 
