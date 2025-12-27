@@ -12,9 +12,9 @@ Data Engineer | AI/ML Data Platforms | Cloud & Streaming Architect
 
 ## 👩‍💻 Professional Summary
 
-I am a ** Data Engineer with over 6 years of experience** designing and delivering **production-grade data platforms** for AI/ML, real-time analytics, and large-scale enterprise decision systems. I specialize in building **end-to-end cloud-native pipelines**, ML-ready feature engineering frameworks, and **event-driven architectures** across **AWS and Azure**.
+I am a ** data Engineer with extensive analytical experience** in designing and delivering **production-grade data platforms** for AI/ML, real-time analytics, and large-scale enterprise decision systems. I specialize in building **end-to-end cloud-native pipelines**, ML-ready feature engineering frameworks, and **event-driven architectures** across **AWS and Azure**.
 
-My work spans **pharmaceutical manufacturing, healthcare analytics, and enterprise systems**, where I’ve consistently delivered **measurable business impact**—including **40% cloud cost reduction, 300% performance improvement**, and multi-million-dollar cost avoidance through predictive analytics and anomaly detection.
+My work spans pharmaceutical manufacturing, healthcare analytics, and enterprise systems, where I’ve consistently delivered measurable business impact—encompassing 40% cloud cost reduction, 300% performance improvement, and multi-million-dollar cost avoidance through predictive analytics and anomaly detection.
 
 ---
 
