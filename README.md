@@ -61,24 +61,14 @@ I am a **Data Engineer** transitioning from a foundation in Structural Engineeri
 - Anomaly Detection Data Pipelines  
 - RAG Architecture & Vector Embeddings  
 - Semantic Chunking & Retrieval  
-- Model Training Data Generation
-- Model Stability 
+- ML-Ready Data Modeling  
+- Model Training Data Generation  
+- Model Stability & Drift Monitoring  
 
 ### 💻 Programming & DevOps
 - Python, PySpark dataframes, SQL 
 - Docker, GitHub Actions  
 - CI/CD for Data Pipelines  
-
-### 📊 Analytics & Visualization
-- Power BI, Tableau  
-- Databricks SQL Analytics  
-- Advanced Excel
-
-## 📊 Bank Loan Classification - Personal Loan Campaign
-Predicting which liability customers have the highest probability of converting to personal loan customers using optimized classification models.
-- Repository: [Bank-Loan-Classification-ML](https://github.com/samavedam111778/Bank-Loan-Classification-ML)
-- Focus: Predictive classification, handling class imbalance (9% conversion), and model generalization using Pruned Decision Trees.
-- Tech highlights: Python, Scikit-Learn (DecisionTreeClassifier), Hyperparameter Tuning (Pruning), Seaborn for Bivariate Analysis.
 
 ---
 
