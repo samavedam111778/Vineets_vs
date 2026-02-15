@@ -1,5 +1,5 @@
 # Hello, I'm Vineeta Samavedam 👋  
-Data Engineer with ML | AI/ML Data Platforms | Cloud & Streaming Architect
+### **Data Engineer | Specialized in AIML  | Cloud & Streaming Architect**
 
 <a href="https://www.linkedin.com/in/vineetavs">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -12,7 +12,7 @@ Data Engineer with ML | AI/ML Data Platforms | Cloud & Streaming Architect
 
 ## 👩‍💻 Professional Summary
 
-I am a **Data Engineer** with a foundational background in Structural Engineering, bringing a unique "safety-critical" precision to digital architectures. I specialize in designing and delivering **production-grade data platforms** for AI/ML, real-time analytics, and large-scale enterprise systems.
+I am a **Data Engineer** transitioning from a foundation in Structural Engineering, bringing "safety-critical" precision to the world of Big Data and AI. Building experience in designing and delivering **production-grade data platforms** that bridge the gap between raw data ingestion and intelligent model deployment (as shown in the projects below). Primarily, focusing on **AIML Engineering**, where I apply high-level analytical rigor to model building, moving beyond 'black-box' systems by prioritizing Model Stability and Generalization. My goal is to ensure that every digital solution is engineered for long-term resilience and performs reliably under real-world data stress.
 
 ---
 
@@ -94,31 +94,45 @@ Predicting which liability customers have the highest probability of converting 
 
 ## 🚀 Featured Projects
 
-### 🧾 BCG X – GenAI Financial Document Chatbot  
-Creating an AI-powered chatbot that extracts insights from financial documents and makes them queryable in natural language.
+### 📊 [Bank Loan Classification - Predictive Analytics](https://github.com/samavedam111778/Bank-Loan-Classification-ML)
+*Optimizing retail banking loan conversion through resilient engineering and stable ML modeling.*
 
-- Repository: <a href="https://github.com/samavedam111778/BCG_X_GEN_AI_CHATBOT">BCG_X_GEN_AI_CHATBOT</a>  
-- Focus: RAG-style retrieval over financial docs, prompt engineering, and building an interactive chatbot interface.  
-- Tech highlights: Jupyter Notebooks, HTML front-end, GenAI workflows for document Q&A. :contentReference[oaicite:0]{index=0}  
-
----
-
-### 📊 GEN AI – EDA Analysis using LLMs  
-Exploratory data analysis (EDA) powered by GenAI to speed up understanding of complex datasets and generate insights.
-
-- Repository: <a href="https://github.com/samavedam111778/GEN_AI_TATA">GEN_AI_TATA</a>  
-- Focus: Using GenAI to assist with EDA, pattern discovery, and narrative-style summary of data.  
-- Tech highlights: Jupyter Notebooks and SQL/T-SQL workflows integrated with LLM-driven analysis. :contentReference[oaicite:1]{index=1}
+- **Focus:** Solving class imbalance (9% conversion) by prioritizing model stability over simple memorization.
+- **Execution:** Applied rigorous **Hyperparameter Tuning** and **Cost-Complexity Pruning** to reduce the overfitting gap to a negligible **0.018**, as detailed in the [project notebook](https://colab.research.google.com/drive/1BgbDYfdCJtnYJ6pzgoZW_5VEahulQqwH).
+- **Tech Highlights:** Python, Scikit-Learn (DecisionTreeClassifier), Bivariate Analysis, and Feature Importance Mapping.
+- **Outcome:** Identified high-propensity segments (Income >$110k) and optimized "Loyalty Loan" triggers 30 days prior to CD maturity.
 
 ---
 
-### 📊 Food Hub Order EDA  
-LLM-assisted exploratory data analysis over restaurant order data to generate fast insights on demand patterns, missing ratings, top restaurants, and high-value customers.
+### 🍔 [FoodHub Order Analysis - EDA Specialist](https://github.com/samavedam111778/FoodHub_EDA_Analysis.git)
+*Deep-dive statistical analysis to optimize operations for a multi-city food aggregator.*
 
-- Repository: <a href=https://github.com/samavedam111778/FoodHub_EDA_Analysis.git</a>
-- Focus: RAG-ready EDA, pattern discovery (weekday vs weekend), ranking (top 5 restaurants, top 3 customers), and narrative insight generation using Pandas.  
-- Tech highlights: Python, Pandas, Jupyter Notebooks, and SQL-style aggregations structured for future LLM queryability.
+- **Focus:** Uncovering operational bottlenecks and customer demand patterns through rigorous statistical EDA.
+- **Execution:** Performed comprehensive data cleaning and **Multivariate Analysis** to identify peak ordering windows and top-performing restaurant segments.
+- **Tech Highlights:** Python, Pandas, Seaborn, Matplotlib, SQL-style aggregations.
+- **Outcome:** Provided data-backed recommendations for delivery time optimization and targeted weekend promotional strategies.
+  
+---
 
+### 🧾 [BCG X – GenAI Financial Document Chatbot](https://github.com/samavedam111778/BCG_X_GEN_AI_CHATBOT)
+*Engineered a retrieval-based intelligent system to extract insights from complex financial documentation.*
+
+- **Focus:** Bridging the gap between unstructured financial data and natural language querying using RAG.
+- **Execution:** Developed a **Retrieval-Augmented Generation (RAG)** pipeline including document parsing, semantic chunking, and prompt engineering for high-accuracy financial Q&A.
+- **Tech Highlights:** GenAI Workflows, Jupyter Notebooks, HTML/CSS Front-end, Document Embeddings.
+- **Outcome:** Created a functional interface allowing stakeholders to query multi-page financial reports with contextual accuracy.
+
+---
+
+### 📈 [GEN AI – EDA Analysis using LLMs](https://github.com/samavedam111778/GEN_AI_TATA)
+*Accelerating data discovery through AI-assisted exploratory workflows.*
+
+- **Focus:** Using LLMs to automate pattern discovery and narrative summary generation for complex datasets.
+- **Execution:** Integrated LLM-driven analysis with **SQL/T-SQL workflows** to transform raw query results into business-ready insights.
+- **Tech Highlights:** Python, SQL Server (T-SQL), Jupyter Notebooks, Prompt Engineering for Data Science.
+- **Outcome:** Reduced "time-to-insight" by automating the generation of narrative summaries and initial trend analysis.
+
+---
 
 ## 🎓 Education
 
