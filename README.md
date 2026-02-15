@@ -14,7 +14,7 @@ Data Engineer | AI/ML Data Platforms | Cloud & Streaming Architect
 
 I am a ** data Engineer with extensive analytical experience** in designing and delivering **production-grade data platforms** for AI/ML, real-time analytics, and large-scale enterprise decision systems. I specialize in building **end-to-end cloud-native pipelines**, ML-ready feature engineering frameworks, and **event-driven architectures** across **AWS and Azure**.
 
-My work spans pharmaceutical manufacturing, healthcare analytics, and enterprise systems, where I’ve consistently delivered measurable business impact—encompassing 40% cloud cost reduction, 300% performance improvement, and multi-million-dollar cost avoidance through predictive analytics and anomaly detection.
+I am a **Data Engineer** with a foundational background in Structural Engineering, bringing a unique "safety-critical" precision to digital architectures. I specialize in designing and delivering **production-grade data platforms** for AI/ML, real-time analytics, and large-scale enterprise systems.
 
 ---
 
@@ -31,12 +31,11 @@ My work spans pharmaceutical manufacturing, healthcare analytics, and enterprise
 
 | Skill Area | Representative Projects |
 |-----------|------------------------|
-| Time-Series & Streaming Data Engineering | Manufacturing Anomaly Detection Platform (Pfizer) |
+| Time-Series & Streaming Data Engineering | Manufacturing Anomaly Detection |
 | ML Feature Engineering & Feature Stores | Predictive Maintenance & Clinical Risk Models |
-| RAG Pipelines & Vector Databases | SOP & Validation Document Intelligence System |
+| RAG Pipelines & Vector Databases | | Machine Learning Engineering (AIML) | Model Stability | Cost-Complexity Pruning|
 | Cloud Data Platforms (AWS & Azure) | Lakehouse & Medallion Architecture Platforms |
-| Data Quality, Governance & Compliance | Pharma & Healthcare Regulatory Pipelines |
-| Performance & Cost Optimization | Cloud Migration & Spark Optimization Initiatives |
+| Data Quality, Governance & Compliance  Cloud Migration & Spark Optimization Initiatives |
 
 ---
 
@@ -65,17 +64,24 @@ My work spans pharmaceutical manufacturing, healthcare analytics, and enterprise
 - Anomaly Detection Data Pipelines  
 - RAG Architecture & Vector Embeddings  
 - Semantic Chunking & Retrieval  
-- Model Training Data Generation  
+- Model Training Data Generation
+- Model Stability 
 
 ### 💻 Programming & DevOps
-- Python, PySpark, SQL, Shell  
-- Docker, Jenkins, GitHub Actions  
+- Python, PySpark dataframes, SQL 
+- Docker, GitHub Actions  
 - CI/CD for Data Pipelines  
 
 ### 📊 Analytics & Visualization
 - Power BI, Tableau  
 - Databricks SQL Analytics  
-- Advanced Excel  
+- Advanced Excel
+
+## 📊 Bank Loan Classification - Personal Loan Campaign
+Predicting which liability customers have the highest probability of converting to personal loan customers using optimized classification models.
+- Repository: [Bank-Loan-Classification-ML](https://github.com/samavedam111778/Bank-Loan-Classification-ML)
+- Focus: Predictive classification, handling class imbalance (9% conversion), and model generalization using Pruned Decision Trees.
+- Tech highlights: Python, Scikit-Learn (DecisionTreeClassifier), Hyperparameter Tuning (Pruning), Seaborn for Bivariate Analysis.
 
 ---
 
@@ -90,40 +96,6 @@ My work spans pharmaceutical manufacturing, healthcare analytics, and enterprise
 ---
 
 ## 🚀 Featured Projects
-
-### 🧪 Pharmaceutical Manufacturing Intelligence Platform | Pfizer
-
-**Tech Stack:** AWS Glue, PySpark, Snowflake, Kafka, SageMaker, OSI PI, FAISS  
-
-- Built scalable pipelines processing **50+ million sensor readings/day** from manufacturing systems.
-- Designed **time-series feature engineering framework** supporting 200+ parameters with drift correction, smoothing, lag features, and imbalance handling.
-- Engineered **RAG-based document intelligence system** over 10,000+ SOPs and validation reports, reducing document retrieval time from **45 minutes → under 2 minutes**.
-- Enabled **early anomaly detection** preventing ~$3.5M/year in rejected batches.
-
----
-
-### 🏥 Enterprise Healthcare Analytics Platform | DaVita
-
-**Tech Stack:** Azure Data Factory, Databricks, Kafka, Hadoop, Delta Lake  
-
-- Led migration from on-prem to Azure Lakehouse handling **8TB/day**.
-- Designed real-time streaming pipelines processing **500K events/min**.
-- Achieved **10x Spark performance improvements** using AQE, partitioning, and optimization techniques.
-- Established CI/CD & DataOps automation, reducing deployment cycles from **3 days → 4 hours**.
-
----
-
-### 📊 Enterprise Data Warehousing & ETL | Financial & Telecom Clients
-
-**Tech Stack:** SQL Server, Oracle, SSIS, Informatica, ADF, Power BI  
-
-- Built 150+ optimized stored procedures and ETL workflows.
-- Designed Kimball-style dimensional models supporting 500+ users.
-- Reduced ETL runtimes by **55%** and BI query times by **85%**.
-
----
-
-## 🚀 Hands-on GenAI & Data Engineering Projects
 
 ### 🧾 BCG X – GenAI Financial Document Chatbot  
 Creating an AI-powered chatbot that extracts insights from financial documents and makes them queryable in natural language.
@@ -153,7 +125,7 @@ LLM-assisted exploratory data analysis over restaurant order data to generate fa
 
 ## 🎓 Education
 
-- **M.S. in Data Analytics** – University of Southern California *(2023–2026)*  
+- **M.S. in Structural Engineering and Analytics** – University of Southern California *(2023–2026)*  
 - **Postgraduate Program** – AI & ML in Business, Texas McCombs *(2025–2026)*  
 
 ---
