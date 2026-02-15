@@ -1,5 +1,5 @@
 # Hello, I'm Vineeta Samavedam 👋  
-Data Engineer | AI/ML Data Platforms | Cloud & Streaming Architect
+Data Engineer with ML | AI/ML Data Platforms | Cloud & Streaming Architect
 
 <a href="https://www.linkedin.com/in/vineetavs">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -12,8 +12,6 @@ Data Engineer | AI/ML Data Platforms | Cloud & Streaming Architect
 
 ## 👩‍💻 Professional Summary
 
-I am a ** data Engineer with extensive analytical experience** in designing and delivering **production-grade data platforms** for AI/ML, real-time analytics, and large-scale enterprise decision systems. I specialize in building **end-to-end cloud-native pipelines**, ML-ready feature engineering frameworks, and **event-driven architectures** across **AWS and Azure**.
-
 I am a **Data Engineer** with a foundational background in Structural Engineering, bringing a unique "safety-critical" precision to digital architectures. I specialize in designing and delivering **production-grade data platforms** for AI/ML, real-time analytics, and large-scale enterprise systems.
 
 ---
@@ -21,9 +19,8 @@ I am a **Data Engineer** with a foundational background in Structural Engineerin
 ## 🎯 Career Focus
 
 - Data Engineering roles  
-- AI & ML Data Platforms (Feature Stores, RAG pipelines, Anomaly Detection)  
+- AI & ML Data Platforms (Feature Stores, RAG pipelines, Anomaly Detection, Model development, Cost-Complexity Pruning)  
 - Cloud-native & streaming architectures (AWS / Azure)  
-- High-scale, regulated environments (Healthcare, Pharma, Finance)
 
 ---
 
